@@ -7,7 +7,8 @@ if __name__ == '__main__':
         print("통과!!!!")
 
 
-print(1)
-print(7*"sex")
-
-print(2)
+a = 100
+print(a+200)
+print(300)
+print(1903912389)
+print(290923109)
